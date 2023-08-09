@@ -26,10 +26,6 @@ Simulate a virtual PC environment in Python! This program allows you to interact
 
 - Python 3.x
 
-## Contributors
 
-- [Your Name]
-
-## License
 
 This project is licensed under the [MIT License](LICENSE).
